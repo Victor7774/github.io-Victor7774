@@ -37,4 +37,4 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:** Queried and analysed a football database using SQL Server to extract meaningful insights from player, club, match and league data. 
 Wrote optimized SQL queries to retrieve, filter, aggregate and suummarize information for reporting purposes. 
 The Project demonstrates proficiency in relational databases, SQL querying, and data analysis techniques commonly used in business intelligence. 
-**Technology used: SQL Server Management Studio**
+**Technology used:** SQL Server Management Studio
