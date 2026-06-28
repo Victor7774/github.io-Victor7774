@@ -4,7 +4,7 @@
 
 **Title:** [NHS Cancer Data](https://github.com/Victor7774/github.io-Victor7774/blob/main/NHS_Cancer_DataProject.xlsx)
 
-**Tools Used:** Microsoft Excel (Tools used)
+**Tools Used:** Microsoft Excel, pivot tables, Pivot Charts, Slicers, Data Cleaning, Dashboard Design, Conditional Formatting , Data visualization, Interactive reporting. 
 
 **Project Description:**
 Developed an interactive Excel dashboard to analyse NHS cancer patient data. The dashboard enables users to filter records by sex,age group, treatment type, cancer type, and treatment period to identify trends in patient demographics, treatment outcomes, and healthcare performance. Excel Pivot Table, Pivot Charts, slicers and data visualization techniques were used to transform raw healthcare data into an easy to understand reporting dashboard.
