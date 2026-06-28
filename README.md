@@ -6,7 +6,8 @@
 
 **Tools Used:** Microsoft Excel (Tools used)
 
-**Project Description:**[Developed an interactive Excel dashboard to analyse NHS cancer patient data. The dashboard enables users to filter records by sex,age group, treatment type, cancer type, and treatment period to identify trends in patient demographics, treatment outcomes, and healthcare performance. Excel Pivot Table, Pivot Charts, slicers and data visualization techniques were used to transform raw healthcare data into an easy to understand reporting dashboard.
+**Project Description:**
+Developed an interactive Excel dashboard to analyse NHS cancer patient data. The dashboard enables users to filter records by sex,age group, treatment type, cancer type, and treatment period to identify trends in patient demographics, treatment outcomes, and healthcare performance. Excel Pivot Table, Pivot Charts, slicers and data visualization techniques were used to transform raw healthcare data into an easy to understand reporting dashboard.
 
 **Key findings:**
 I identified the age groups with the highest number of cancer diagnoses.
