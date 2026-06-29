@@ -68,9 +68,6 @@ The Project demonstrates proficiency in relational databases, SQL querying, and 
 
 **Dasboard Overview**
 ![SalesDataAW.png](SalesDataAW.png)
-
 ![CustomerData.png](CustomerData.png)
-
 ![ProductData.png](ProductData.png)
-
 ![Map.png](Map.png)
