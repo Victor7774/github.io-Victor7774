@@ -30,7 +30,7 @@ I identified stage of cancer with the highest date rate.
 - Data Filtering (WHERE, BETWEEN, IN, LIKE, AND, OR): Applied advanced filtering techniques to retrieve precise subsets of data based on specific business requirements.
 - Sorting & Limiting Results (ORDER BY, TOP): Organised query results and returned top-performing records for reporting and analysis.
 - Data Aggregation (SUM, COUNT, AVG, MIN, MAX): Calculated key metrics and summary statistics to analyse player performance, club statistics and league trends. - Grouping & Data Summarisation (GROUP BY, HAVING): Grouped data into meaningful categories and filtered aggregated results to uncover valuable insights.
-- Table Joins (INNER JOIN, LEFT JOIN): Combined data from multiple related tables to produce comprehensive datasets across players, clubs, matches and leagues. - Common Table Expressions (CTEs): Used CTEs to simplify complex queries and improve readability and maintainability.
+- Table Joins (INNER JOIN, LEFT JOIN): Combined data from multiple related tables to produce comprehensive datasets across players, clubs, matches and leagues.
 - Subqueries: Applied nested queries to perform advanced filtering, comparisons and analytical calculations.
 - Conditional Logic (CASE WHEN): Created calculated fields and categorised data dynamically based on business rules.
 - String Functions: Manipulated and formatted text data using SQL string functions for cleaner reporting.
