@@ -66,8 +66,14 @@ The Project demonstrates proficiency in relational databases, SQL querying, and 
 
 **Technology used:** Microsoft Power BI - Power Query - DAX (Data Analysis Expressions) - Data Modelling - Star Schema Design - Microsoft Excel (Data Source) - Business Intelligence & Data Visualisation
 
-**Dasboard Overview**
+**Dasboard Overview_1**
 ![SalesDataAW.png](SalesDataAW.png)
+
+**Dasboard Overview_2**
 ![CustomerData.png](CustomerData.png)
+
+**Dasboard Overview_3**
 ![ProductData.png](ProductData.png)
+
+**Dasboard Overview_4**
 ![Map.png](Map.png)
