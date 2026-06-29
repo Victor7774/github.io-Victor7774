@@ -65,3 +65,6 @@ The Project demonstrates proficiency in relational databases, SQL querying, and 
 **Business Questions Answered:**  Which products generate the highest revenue and profit? - Which customer segments contribute the most sales? - How has revenue changed compared to previous years? - Which sales territories perform best? - What are the monthly and yearly sales trends? - Which product categories require improvement? - How do profit margins differ across products and regions? - Which customers generate the highest lifetime value? 
 
 **Technology used:** Microsoft Power BI - Power Query - DAX (Data Analysis Expressions) - Data Modelling - Star Schema Design - Microsoft Excel (Data Source) - Business Intelligence & Data Visualisation
+
+**Dasboard Overview**
+![SalesDataAW.png](SalesDataAW.png)
