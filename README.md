@@ -27,17 +27,17 @@ I identified stage of cancer with the highest date rate.
 **SQL Skills Used:**
 
 - Data Retrieval (SELECT): Queried and extracted relevant information from multiple database tables to support business analysis.
-- - Data Filtering (WHERE, BETWEEN, IN, LIKE, AND, OR): Applied advanced filtering techniques to retrieve precise subsets of data based on specific business requirements.
-  - - Sorting & Limiting Results (ORDER BY, TOP): Organised query results and returned top-performing records for reporting and analysis.
-  - - Data Aggregation (SUM, COUNT, AVG, MIN, MAX): Calculated key metrics and summary statistics to analyse player performance, club statistics and league trends. - Grouping & Data Summarisation (GROUP BY, HAVING): Grouped data into meaningful categories and filtered aggregated results to uncover valuable insights.
-    - - Table Joins (INNER JOIN, LEFT JOIN): Combined data from multiple related tables to produce comprehensive datasets across players, clubs, matches and leagues. - Common Table Expressions (CTEs): Used CTEs to simplify complex queries and improve readability and maintainability.
-      - - Subqueries: Applied nested queries to perform advanced filtering, comparisons and analytical calculations.
-        - - Conditional Logic (CASE WHEN): Created calculated fields and categorised data dynamically based on business rules.
-        - - String Functions: Manipulated and formatted text data using SQL string functions for cleaner reporting.
-          - - Date Functions: Analysed match schedules and historical trends using SQL date and time functions.
-            - - NULL Handling (IS NULL, COALESCE, ISNULL): Managed missing or incomplete data to improve query accuracy.
-            - - Data Analysis & Reporting: Generated analytical reports by transforming raw relational data into meaningful business insights.
-              - - Query Optimisation: Structured efficient SQL queries to improve readability, maintainability and execution performance.
+- Data Filtering (WHERE, BETWEEN, IN, LIKE, AND, OR): Applied advanced filtering techniques to retrieve precise subsets of data based on specific business requirements.
+- Sorting & Limiting Results (ORDER BY, TOP): Organised query results and returned top-performing records for reporting and analysis.
+- Data Aggregation (SUM, COUNT, AVG, MIN, MAX): Calculated key metrics and summary statistics to analyse player performance, club statistics and league trends. - Grouping & Data Summarisation (GROUP BY, HAVING): Grouped data into meaningful categories and filtered aggregated results to uncover valuable insights.
+- Table Joins (INNER JOIN, LEFT JOIN): Combined data from multiple related tables to produce comprehensive datasets across players, clubs, matches and leagues. - Common Table Expressions (CTEs): Used CTEs to simplify complex queries and improve readability and maintainability.
+- Subqueries: Applied nested queries to perform advanced filtering, comparisons and analytical calculations.
+- Conditional Logic (CASE WHEN): Created calculated fields and categorised data dynamically based on business rules.
+- String Functions: Manipulated and formatted text data using SQL string functions for cleaner reporting.
+- Date Functions: Analysed match schedules and historical trends using SQL date and time functions.
+- NULL Handling (IS NULL, COALESCE, ISNULL): Managed missing or incomplete data to improve query accuracy.
+- Data Analysis & Reporting: Generated analytical reports by transforming raw relational data into meaningful business insights.
+- Query Optimisation: Structured efficient SQL queries to improve readability, maintainability and execution performance.
 
 **Project Description:** Queried and analysed a football database using SQL Server to extract meaningful insights from player, club, match and league data. 
 Wrote optimized SQL queries to retrieve, filter, aggregate and suummarize information for reporting purposes. 
